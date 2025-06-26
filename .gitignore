@@ -1,0 +1,19 @@
+# Node modules
+node_modules/
+
+# Expo folders
+.expo/
+.expo-shared/
+
+# macOS system files
+.DS_Store
+
+# Build output
+dist/
+build/
+
+# Environment files
+.env
+
+# Git metadata
+.git/
